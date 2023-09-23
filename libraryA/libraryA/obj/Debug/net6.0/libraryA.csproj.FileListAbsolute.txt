@@ -1,0 +1,11 @@
+C:\Users\nimalchakravarthy.b\source\repos\libraryA\libraryA\bin\Debug\net6.0\libraryA.deps.json
+C:\Users\nimalchakravarthy.b\source\repos\libraryA\libraryA\bin\Debug\net6.0\libraryA.dll
+C:\Users\nimalchakravarthy.b\source\repos\libraryA\libraryA\bin\Debug\net6.0\libraryA.pdb
+C:\Users\nimalchakravarthy.b\source\repos\libraryA\libraryA\obj\Debug\net6.0\libraryA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimalchakravarthy.b\source\repos\libraryA\libraryA\obj\Debug\net6.0\libraryA.AssemblyInfoInputs.cache
+C:\Users\nimalchakravarthy.b\source\repos\libraryA\libraryA\obj\Debug\net6.0\libraryA.AssemblyInfo.cs
+C:\Users\nimalchakravarthy.b\source\repos\libraryA\libraryA\obj\Debug\net6.0\libraryA.csproj.CoreCompileInputs.cache
+C:\Users\nimalchakravarthy.b\source\repos\libraryA\libraryA\obj\Debug\net6.0\libraryA.dll
+C:\Users\nimalchakravarthy.b\source\repos\libraryA\libraryA\obj\Debug\net6.0\refint\libraryA.dll
+C:\Users\nimalchakravarthy.b\source\repos\libraryA\libraryA\obj\Debug\net6.0\libraryA.pdb
+C:\Users\nimalchakravarthy.b\source\repos\libraryA\libraryA\obj\Debug\net6.0\ref\libraryA.dll

@@ -1,0 +1,14 @@
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\bin\Debug\net6.0\lesson8.exe
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\bin\Debug\net6.0\lesson8.deps.json
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\bin\Debug\net6.0\lesson8.runtimeconfig.json
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\bin\Debug\net6.0\lesson8.dll
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\bin\Debug\net6.0\lesson8.pdb
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\obj\Debug\net6.0\lesson8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\obj\Debug\net6.0\lesson8.AssemblyInfoInputs.cache
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\obj\Debug\net6.0\lesson8.AssemblyInfo.cs
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\obj\Debug\net6.0\lesson8.csproj.CoreCompileInputs.cache
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\obj\Debug\net6.0\lesson8.dll
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\obj\Debug\net6.0\refint\lesson8.dll
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\obj\Debug\net6.0\lesson8.pdb
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\obj\Debug\net6.0\lesson8.genruntimeconfig.cache
+C:\Users\nimalchakravarthy.b\source\repos\lesson8\lesson8\obj\Debug\net6.0\ref\lesson8.dll

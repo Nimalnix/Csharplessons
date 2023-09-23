@@ -1,0 +1,14 @@
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\obj\Debug\net6.0\parctice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\obj\Debug\net6.0\parctice.AssemblyInfoInputs.cache
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\obj\Debug\net6.0\parctice.AssemblyInfo.cs
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\obj\Debug\net6.0\parctice.csproj.CoreCompileInputs.cache
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\bin\Debug\net6.0\parctice.exe
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\bin\Debug\net6.0\parctice.deps.json
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\bin\Debug\net6.0\parctice.runtimeconfig.json
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\bin\Debug\net6.0\parctice.dll
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\bin\Debug\net6.0\parctice.pdb
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\obj\Debug\net6.0\parctice.dll
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\obj\Debug\net6.0\refint\parctice.dll
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\obj\Debug\net6.0\parctice.pdb
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\obj\Debug\net6.0\parctice.genruntimeconfig.cache
+C:\Users\nimalchakravarthy.b\source\repos\parctice\parctice\obj\Debug\net6.0\ref\parctice.dll
